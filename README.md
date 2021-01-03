@@ -21,7 +21,7 @@ In this project, I worked on a hospital web building intertwined with back-end d
 ---
 
 ## **File Structure**
-<p align="left"><img src="Images/File_Tree.png" alt="Trojan_Menu1" width="500" /></p>
+<p align="left"><img src="Images/File_Tree2.png" alt="Trojan_Menu1" width="1000" /></p>
 
 ---
 
