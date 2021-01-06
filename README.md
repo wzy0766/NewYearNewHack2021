@@ -65,7 +65,7 @@ $cfg['Servers'][$i]['extension'] = 'mysqli';
 $cfg['Servers'][$i]['AllowNoPassword'] = true;
 ```
 > * Notice: **35.202.184.238** is the public IP address of my Google Cloud server, you may change it to your own Google Cloud pubilc IP address. 
-> * Visit this [**link**](https://cloud.google.com/sql/docs/mysql/quickstart) to create your own Google Cloud server.
+> * Visit this [**link**](https://cloud.google.com/sql/docs/mysql/quickstart) to deploy your own Google Cloud server.
 > 
 * Again, run **xampp-control.exe** as an administrator, then start its **apache** and **MySQL**, click the **Admin** button under the **MySQL** section.
 * You can now switch your current server locally or remotely by checking the **current server** selection menu, which is in the leftmost corner of the page.
